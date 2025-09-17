@@ -8,15 +8,15 @@
 
 - 🎓 Currently pursuing Master's in Software Engineering Systems at Northeastern University.
 - 👩‍💻 Previously worked as a Software Engineer at Shell India.
-- 🌱 Always learning and growing my skills, especially in Database management, Cloud Computing and Machine Learning.
+- 🌱 Expanding my skills, especially in Cloud Computing and AI.
 - ⚡ Fun fact, i love painting and dancing.
 
 ### Skills
 
-- Languages: Python, Java, PowerShell, JavaScript, C,
+- Languages: Python, Java, PowerShell, JavaScript, C
 - Tools/Technologies: VMware, GitHub, SSMS, WSUS, Active Directory, SolarWinds, Veeam Backup & Restore
 - Frameworks: Next.js, React
-- Databases: MySQL
+- Databases: PostgreSQL, MySQL
 - Other: ServiceNow, Vulnerability Management
 
 ### Current Focus
